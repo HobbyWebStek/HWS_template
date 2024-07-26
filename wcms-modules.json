@@ -2,12 +2,12 @@
     "version": 1,
     "themes": {
         "HWS_template": {
-            "name": "HWS_template",
-            "repo": "https://github.com/HobbyWebStek/HWS_template/tree/master",
+            "name": "Template HWS",
+            "repo": "https://https://github.com/HobbyWebStek/HWS_template/tree/master",
             "zip": "https://github.com/HobbyWebStek/HWS_template/archive/master.zip",
-            "summary": "HWS template.",
-            "version": "1",
-            "image": "https://github.com/HobbyWebStek/HWS_template/tree/master/preview.jpg"
+            "summary": "My sample theme",
+            "version": "1.0.0",
+            "image": "https://github.com/HobbyWebStek/HWS_template/master/preview.jpg"
         }
     }
 }
